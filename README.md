@@ -119,6 +119,7 @@ GET https://api.spacexdata.com/v5/launches/latest
 }
 ```
 
+
 ## Cron Job Status
 
 <p align="left">
@@ -155,3 +156,4 @@ GET https://api.spacexdata.com/v5/launches/latest
 
 * If you have any questions or corrections, please open an issue and we'll get it merged ASAP
 * For any other questions or concerns, just shoot me an email.
+* There is no API key required for acquiring data. For any request that modifies data (PUT/POST/DELETE), an API key is needed. Please contact the admin team.

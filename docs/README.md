@@ -20,6 +20,8 @@ Authentication via api key is required for all destructive routes. This includes
 
 Authenticate by passing the header `spacex-key` with your api key. Protected routes return `401` without a valid key.
 
+To aquire an API key, reach out to his directly.
+
 ## Pagination + Custom Queries
 
 All `/query` routes support pagination, custom queries, and other output controls.
